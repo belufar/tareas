@@ -10,3 +10,4 @@ Anteriormente, la imagen estaba debajo de la información personal. Ahora, utili
 
 Tuve problemas en "encontrar" la imagen, puesto que en la página no aparecía. A pesar que estaba donde mismo había usado para entrega 3a. Aun no comprendo del todo cómo funciona el escribir correctamente la ruta de una imagen (pues según yo la copio correctamente /images/me.jpg). Pero de alguna forma lo logré al poner la imagen en la misma carpeta que el index. 
 
+PD: Aclarar que desde Edge la foto se ve correctamente, pero por algún motivo en al abrirlo desde Github, no se ve. Para que no me lo cuenten como malo plis, ni gpt supo solucionarlo :(
